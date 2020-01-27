@@ -7,7 +7,7 @@ A simple service that acts as a RestAPI for an inventory system
 1. Java
 2. SQLite
 
-This actually uses an in-memory database, but if data needs to be persisted this could easily changed by creating a file on your local drive and pointing SQLite to use it instead.
+This actually uses an in-memory database, but if data needs to be persisted this could easily be changed by creating a file on your local drive and pointing SQLite to use it instead.
 
 # Setup
 
